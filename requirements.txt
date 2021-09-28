@@ -13,3 +13,4 @@ python-magic
 psutil
 pyromod
 wget
+python-dotenv
